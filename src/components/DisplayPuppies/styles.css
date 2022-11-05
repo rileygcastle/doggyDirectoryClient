@@ -1,0 +1,15 @@
+.display-img {
+  margin-top: 20px;
+  width: 300;
+  height: 300;
+  display: inline-block;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(180, 148, 85, 0.432);
+  border: 2px solid rgb(61, 34, 0);
+  border-radius: 4px;
+  text-align: center;
+}
+.display-info {
+  margin: 12px;
+}
